@@ -1,0 +1,23 @@
+name: ISBleehood
+favicon: null
+layout_spectrum: 0.5366231170482934
+typography_spectrum: 0.4669286170974374
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7004326190799475
+  lightness: 0.5753703552763909
+  saturation: 0.19104793248698115
+  rhythmicContrast: 0.05916961585171521
+purpose: []
